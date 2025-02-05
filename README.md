@@ -3,7 +3,6 @@
 - 🌱 I’m currently learning ML in Apache Spark
 - 📫 How to reach me 20dipikagiri21@gmail.com
 - 😄 Pronouns: she/her
-- ⚡ Fun fact: We spend a year on the toilet in our lifetime.
 
 <!---
 pikaachi/pikaachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
