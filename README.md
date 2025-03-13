@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @pikaachi
-- 👀 I’m interested in Deep Learning, Machine Learning
-- 🌱 I’m currently learning ML in Apache Spark
-- 📫 How to reach me 20dipikagiri21@gmail.com
-- 😄 Pronouns: she/her
+## 👋 About Me
 
-<!---
-pikaachi/pikaachi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, I’m **@pikaachi**  
+- 💻 Passionate about **web development, backend engineering, and scalable API design**  
+- 🚀 Currently exploring **Machine Learning in Apache Spark** and **Data Engineering**  
+- 🛠️ Tech Stack: **Python, C#, .NET, React, FastAPI, PostgreSQL, Apache Spark, Docker**  
+- 🌟 Always excited to **learn new technologies and solve real-world problems**
+- 🎾 Outside of coding: **Avid traveler, home chef, and tennis enthusiast 🎾**  
+- 📬 Reach me at **20dipikagiri21@gmail.com**  
+- 😄 Pronouns: **She/Her**  
