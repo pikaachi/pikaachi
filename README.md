@@ -1,5 +1,5 @@
 ## 👋 About Me
-👋 Hi, I'm **@pikaachi**  
+👋 Hi, I'm **Pika**  
 🧩 Transitioning into **Product Management** — with a background in software engineering and a passion for building things people actually use  
 🚀 Currently exploring **product strategy, user research, and how technical systems become great products**  
 🛠️ Technical Background: **Python, C#, .NET, React, FastAPI, PostgreSQL, Docker** — enough to work fluently with any engineering team  
