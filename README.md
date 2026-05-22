@@ -1,9 +1,10 @@
 ## 👋 About Me
-👋 Hi, I'm **Pika**  
-🧩 Transitioning into **Product Management** — with a background in software engineering and a passion for building things people actually use  
-🚀 Currently exploring **product strategy, user research, and how technical systems become great products**  
-🛠️ Technical Background: **Python, C#, .NET, React, FastAPI, PostgreSQL, Docker** — enough to work fluently with any engineering team  
-🌟 I love finding the intersection of **user needs, business goals, and technical feasibility**  
-🎾 Outside of work: **Avid traveler, home chef, and tennis enthusiast 🎾**  
-📬 Reach me at **dips.giri16@gmail.com**  
-😄 Pronouns: **She/Her**
+
+👋 Hi, I’m **@pikaachi**  
+ 💻 Passionate about **web development, backend engineering, and scalable API design**  
+🚀 Currently exploring **Machine Learning in Apache Spark** and **Data Engineering**  
+ 🛠️ Tech Stack: **Python, C#, .NET, React, FastAPI, PostgreSQL, Apache Spark, Docker**  
+ 🌟 Always excited to **learn new technologies and solve real-world problems**
+ 🎾 Outside of coding: **Avid traveler, home chef, and tennis enthusiast 🎾**  
+ 📬 Reach me at **20dipikagiri21@gmail.com**  
+ 😄 Pronouns: **She/Her**  
